@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/ellipse.png</file>
+        <file>icons/line.png</file>
+        <file>icons/Rectangle.png</file>
+        <file>icons/Arrow.png</file>
+    </qresource>
+</RCC>
