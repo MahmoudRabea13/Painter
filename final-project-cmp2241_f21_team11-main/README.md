@@ -1,1 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6622591&assignment_repo_type=AssignmentRepo)
+# Painting app with (c++) using QT
+
+## **Features of this app**
+
+### (1) Calculate perimeter of Shapes in Dynamic way
+
+The perimeter of shapes calculate in dynamic way if you want to print it at any time 
+
+### (2) sort shapes by their perimeter
+
+you can press on sort button to print shapes name in asending order to their perimeter
+
+#### (3) delete specific item if yoy want 
+
+you can select any shape you want to delete and press delete shortcut or delete button
+
+### (4) move shape front or behind the other shapes
+
+### (5) change border thickness and the fill color from color 
